@@ -1,0 +1,5 @@
+colorama==0.4.6
+multiprocessing==0.70.12
+re
+json
+typing
