@@ -1,4 +1,4 @@
-# Webtinel
+# Webtinel - Advanced Webshell Detector
 
 Webtinel is a powerful cybersecurity tool designed to detect malicious webshells in PHP, JSP, and Java files. By leveraging advanced pattern analysis and multi-threaded processing, Webtinel provides quick and accurate identification of potential security threats in web applications.
 
