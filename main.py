@@ -6,7 +6,7 @@
 ║                     =====================================                    ║
 ║                                                                              ║
 ║  An advanced cybersecurity tool for detecting malicious webshells            ║
-║  Supports PHP, JSP, and Java files with advanced pattern analysis            ║                                         ║                                                                              ║
+║  Supports PHP, JSP, and Java files with advanced pattern analysis            ║                                                                                                                       ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 """
 
